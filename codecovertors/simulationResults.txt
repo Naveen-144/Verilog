@@ -1,0 +1,12 @@
+10: BCD = xxxx, Excess-3 = xxxx
+30: BCD = 0000, Excess-3 = 0011
+50: BCD = 0001, Excess-3 = 0100
+70: BCD = 0010, Excess-3 = 0101
+90: BCD = 0011, Excess-3 = 0110
+110: BCD = 0100, Excess-3 = 0111
+130: BCD = 0101, Excess-3 = 1000
+150: BCD = 0110, Excess-3 = 1001
+170: BCD = 0111, Excess-3 = 1010
+190: BCD = 1000, Excess-3 = 1011
+10: BCD = 1001, Excess-3 = 1100
+main.v:58: $finish called at 230 (1s)

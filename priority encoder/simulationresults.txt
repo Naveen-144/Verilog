@@ -1,0 +1,11 @@
+10: Input = xxxxxxxx, Output = xxx
+30: Input = 00100100, Output = 101
+50: Input = 10000001, Output = 111
+70: Input = 00001001, Output = 111
+90: Input = 01100011, Output = 111
+110: Input = 00001101, Output = 111
+130: Input = 10001101, Output = 111
+150: Input = 01100101, Output = 111
+170: Input = 00010010, Output = 110
+190: Input = 00000001, Output = 111
+210: Input = 00001101, Output = 111

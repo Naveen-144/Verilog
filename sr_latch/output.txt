@@ -1,0 +1,5 @@
+s=0, r=0 ==> q=x, q_not=x # should be undefined
+s=0, r=1 ==> q=0, q_not=1 # reset, so q=0
+s=1, r=0 ==> q=1, q_not=0 # set, so q=1
+s=0, r=0 ==> q=1, q_not=0 # latch, so q=q (keep state)
+s=1, r=1 ==> q=0, q_not=0 # invalid state

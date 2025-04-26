@@ -1,0 +1,5 @@
+time=0, i1=0, i2=0, i3=1, i4=0, sel=00, out=0
+time=2, i1=1, i2=0, i3=1, i4=0, sel=00, out=1
+time=4, i1=1, i2=0, i3=1, i4=0, sel=11, out=0
+time=6, i1=1, i2=0, i3=1, i4=1, sel=11, out=1
+main.v:24: $stop called at 8 (1s)

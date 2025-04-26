@@ -1,0 +1,11 @@
+10: a = xxxx, b = xxxx, cin = x, sum = xxxx, cout = x
+30: a = 0100, b = 0001, cin = 1, sum = 0110, cout = 0
+50: a = 0011, b = 1101, cin = 1, sum = 0001, cout = 1
+70: a = 0101, b = 0010, cin = 1, sum = 1000, cout = 0
+90: a = 1101, b = 0110, cin = 1, sum = 0100, cout = 1
+110: a = 1101, b = 1100, cin = 1, sum = 1010, cout = 1
+130: a = 0110, b = 0101, cin = 0, sum = 1011, cout = 0
+150: a = 0101, b = 0111, cin = 0, sum = 1100, cout = 0
+170: a = 1111, b = 0010, cin = 0, sum = 0001, cout = 1
+190: a = 1000, b = 0101, cin = 0, sum = 1101, cout = 0
+210: a = 1101, b = 1101, cin = 1, sum = 1011, cout = 1

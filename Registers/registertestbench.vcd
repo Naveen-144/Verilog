@@ -1,0 +1,60 @@
+$date
+	Wed Nov 15 08:33:44 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module RegisterTestbench $end
+$var wire 4 ! value_out [3:0] $end
+$var reg 1 " clock $end
+$var reg 1 # enable $end
+$var reg 4 $ value_in [3:0] $end
+$scope module r $end
+$var wire 1 " clock $end
+$var wire 4 % data_in [3:0] $end
+$var wire 1 # r_enable $end
+$var reg 4 & data_out [3:0] $end
+$var reg 4 ' data_stored [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx '
+bx &
+bx %
+bx $
+1#
+0"
+bx !
+$end
+#5
+b11 '
+b11 $
+b11 %
+1"
+#10
+b1100 $
+b1100 %
+0"
+#15
+b101 !
+b101 &
+b101 '
+b101 $
+b101 %
+1"
+#20
+b1110 $
+b1110 %
+0"
+#25
+b1 '
+b1 $
+b1 %
+1"
+#30
+0"

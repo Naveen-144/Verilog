@@ -1,0 +1,9 @@
+ 10: Input = xxx, Output = xxxxxxxx
+ 30: Input = 000, Output = 10000000
+ 50: Input = 001, Output = 01000000
+ 70: Input = 010, Output = 00100000
+ 90: Input = 011, Output = 00010000
+110: Input = 100, Output = 00001000
+130: Input = 101, Output = 00000100
+150: Input = 110, Output = 00000010
+170: Input = 111, Output = 00000001

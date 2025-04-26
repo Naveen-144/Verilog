@@ -1,0 +1,10 @@
+10: val = xxx, out = x
+30: val = 000, out = 0
+50: val = 001, out = 1
+70: val = 010, out = 1
+90: val = 011, out = 0
+110: val = 100, out = 1
+130: val = 101, out = 0
+150: val = 110, out = 0
+170: val = 111, out = 1
+main.v:54: $finish called at 190 (1s)
